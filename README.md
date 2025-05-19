@@ -25,7 +25,7 @@
 - 📧 **Email Notification**: Seamless integration with Make (formerly Integromat) to dispatch lead intel.
 - 🔍 **FAQ Handling**: Pre-built intents for common questions.
 
-<kbd>![Customer Service Flow](images/customer_service_flow.png)</kbd>
+ <kbd>![Customer Service Flow](images/Ryan.png)</kbd>
 
 ```bash
 # Import into Voiceflow
@@ -47,11 +47,11 @@
 - 🥤 **Protein Recommendations**: Fetches optimal protein intake based on BMI and user goals.
 - 📊 **Airtable Integration**: Leads are saved automatically for follow-up.
 
-<kbd>![Fitness Bot Flow](images/fitness_bot_flow.png)</kbd>
+<kbd>![Fitness Bot Flow](images/Fitpal.png)</kbd>
 
 ```bash
 # Import into Voiceflow
-1. Clone the repo: git clone https://github.com/youruser/website-chatbots.git
+1. Clone the repo: git clonehttps://github.com/rayyan-shahid1/Website-Chatbots
 2. In Voiceflow, import `FitnessMotivation.vf` and connect your Airtable base!
 ```
 
