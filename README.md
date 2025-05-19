@@ -29,7 +29,7 @@
 
 ```bash
 # Import into Voiceflow
-1. Clone the repo: git clone https://github.com/youruser/website-chatbots.git
+1. Clone the repo: git clone https://github.com/rayyan-shahid1/Website-Chatbots
 2. Open Voiceflow and select "Import Project"
 3. Upload `CustomerServiceLeadGen.vf` and begin customizing!
 ```
