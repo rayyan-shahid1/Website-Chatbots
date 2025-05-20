@@ -1,7 +1,7 @@
 **Website-Chatbots** 🚀
 
 > A showcase of two powerful Voiceflow chatbots for **customer service** and **lead generation**, **fitness motivation**—ready to import, customize and deploy.
-> Author:Rayyan Shahid
+> Author: Rayyan Shahid
 
 ---
 
@@ -88,6 +88,14 @@ Your browser does not support the video tag.
 </video>
 
 ---
+## 📣 Promote & Connect
+
+Showcase and grow your chatbot services:
+- **Upwork:** (https://www.upwork.com/freelancers/~01df585d2fc885ac0b)
+- **Fiverr:** (https://www.fiverr.com/aichatbotbuild/buying?source=avatar_menu_profile)
+- **LinkedIn:** (https://www.linkedin.com/in/m-rayyan-shahid-0bb1662b0/)
+
+---
 
 ## 🏷️ Topics
 
@@ -97,7 +105,7 @@ Your browser does not support the video tag.
 
 ## 🤝 Contributing
 
-We welcome improvements, custom flows, and new templates!
+We welcome improvements, custom flows and new templates!
 1. Fork the repo.
 2. Create a feature branch: `git checkout -b feature/YourFlow`.
 3. Commit your changes and push.
